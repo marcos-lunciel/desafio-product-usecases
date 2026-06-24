@@ -1,5 +1,15 @@
-# Desafio Order Repository
+# Desafio Product Use Cases
 
 ## Do que se trata?
 
-Este é um repositório que completa o desenvolvimento e testes unitários do OrderRepository conforme solicitado no desafio de DDD: Modelagem Tática e Patterns.
+Este é um repositório que completa o desenvolvimento com testes de unidade e integração para a entidade de Product.
+
+## Instalação de dependências
+Rodar no terminal:
+
+    npm install
+
+## Executar testes
+Rodar no terminal
+
+    npm run test

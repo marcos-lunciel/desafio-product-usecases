@@ -1,4 +1,4 @@
-import { describe, it, expect, jest, beforeEach, afterAll } from "@jest/globals";
+import { describe, it, expect, beforeEach, afterAll } from "@jest/globals";
 import {app, sequelize} from "../express";
 import request from "supertest";
 

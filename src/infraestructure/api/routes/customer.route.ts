@@ -1,6 +1,5 @@
 import express, { Request, Response } from "express";
 import CustomerRepository from "../../customer/repository/sequelize/customer.repository";
-import address from "../../../domain/customer/value-object/address";
 import CreateCustomerUseCase from "../../../usecase/customer/create/create.customer.usecase";
 import ListCustomerUseCase from "../../../usecase/customer/list/list.customer.usecase";
 

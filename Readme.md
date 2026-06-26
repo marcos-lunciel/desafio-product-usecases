@@ -9,6 +9,11 @@ Rodar no terminal:
 
     npm install
 
+## Levantar servidor
+Rodar no terminal:
+
+    npm run dev
+    
 ## Executar testes
 Rodar no terminal
 

@@ -27,7 +27,3 @@ export default class CreateCustomerUseCase {
         };
     }
 }   
-
-function uuid() {
-    throw new Error("Function not implemented.");
-}
